@@ -76,7 +76,7 @@ language["en"]["schooling"] = "Schooling";
 language["en"]["skills"] = "Skills";
 language["en"]["contact"] = "Contact";
 
-language["en"]["about_text1"] = "I'm Deyvison Rodrigo B. Estevam, born November 23, 1991."+
-"Devido a necessidade do próprio dinheiro, minha vida profissional começou " +
-"bem cedo por volta dos 15 anos de idade, porém não na área de TI. Trabalhei " + 
-"em supermercados, lojas e até com entregas.";
+language["en"]["about_text1"] = 
+"Sou Deyvison Rodrigo B. Estevam, nascido em 23 de novembro de 1991. " +
+"Minha vida profissional começou bem cedo por volta dos 15 anos de idade, porém não na área de TI. " + 
+"Trabalhei em supermercados, lojas e até com entregas.";
