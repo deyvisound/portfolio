@@ -9,8 +9,8 @@
     <meta name="keywords" content="portfolio" />
     <meta name="description" content="my portfolio" />
 
-
     <link href="css/tooplate_style.css" rel="stylesheet" type="text/css" />
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
 
     <script type="text/javascript"> var setLanguage = "pt-br"; </script>
 
@@ -18,26 +18,25 @@
 
 <body>
 
-<div id="tooplate_body_wrapper">
-	<div id="tooplate_wrapper">    	
+	<div id="tooplate_wrapper" class="container">    	
         
-        <div id="tooplate_header">
-            
-            <div id="site_title">
-                <h1><a href="#">Deyvison Estevam</a></h1>
-            </div>
+        <div id="tooplate_header" class="container-fluid">
+            <div class="row">
+                <div id="site_title" class="col-md-6 col-sm-6 col-xs-12">
+                    <h1><a href="#"></a></h1>
+                </div>
 
-            <div id="header_right">
-               <div id="translate_links">
-                    <a style="cursor: pointer;" onclick="changeLanguage('pt-br');">
-                        <img src="images/br_icon.png" alt="Brasilian" />
-                    </a>
-                    <a style="cursor: pointer;" onclick="changeLanguage('en');">
-                        <img src="images/usa_icon.png" alt="USA" />
-                    </a>                    
+                <div id="header_right" class="col-sm-6 col-md-6 col-xs-12">
+                   <div id="translate_links">
+                        <a style="cursor: pointer;" onclick="changeLanguage('pt-br');">
+                            <img src="images/br_icon.png" alt="Brasilian" />
+                        </a>
+                        <a style="cursor: pointer;" onclick="changeLanguage('en');">
+                            <img src="images/usa_icon.png" alt="USA" />
+                        </a>                    
+                    </div>
                 </div>
             </div>
-            <div class="cleaner"></div>
         </div> <!-- end of tooplate_header -->
         
         <div id="tooplate_main">
@@ -68,7 +67,7 @@
                     <h3><b class="translate" data-text="skills"></b></h3>                                                    
                     <ul class="skills_list">
                         <li class="skill">
-                            PHP - <img class="level_skill" src="images/php_level.png" />
+                            PHP - <div class="level-box"><div class="thisLevel w90"></div></div>
                             <ul>
                                 <li>Zend 2</li>
                                 <li>Laravel</li>
@@ -77,22 +76,22 @@
                             </ul>
                         </li> 
                         <li class="skill">
-                            MySQL - <img class="level_skill" src="images/php_level.png" />                            
+                            MySQL - <div class="level-box"><div class="thisLevel w85"></div></div>                            
                         </li>                                            
                         <li class="skill">
-                            Javascript - <img class="level_skill" src="images/javascript_level.png" />
+                            Javascript - <div class="level-box"><div class="thisLevel w80"></div></div>
                             <ul>
                                 <li>Jquery</li>                            
                             </ul>
                         </li>
                         <li class="skill">
-                            HTML e CSS - <img class="level_skill" src="images/javascript_level.png" />                            
+                            HTML e CSS - <div class="level-box"><div class="thisLevel w75"></div></div>                            
                         </li> 
                         <li class="skill">
-                            Linux - <img class="level_skill" src="images/linux_level.png" />                            
+                            Linux - <div class="level-box"><div class="thisLevel w65"></div></div>                            
                         </li>
                         <li class="skill">
-                            Java - <img class="level_skill" src="images/java_level.png" />
+                            Java - <div class="level-box"><div class="thisLevel w50"></div></div>
                             <ul>
                                 <li>JSP</li>
                                 <li>Spring MVC</li>
@@ -101,7 +100,7 @@
                             </ul>
                         </li> 
                         <li class="skill">
-                            Métodos Ágeis - <img class="level_skill" src="images/java_level.png" />
+                            Métodos Ágeis - <div class="level-box"><div class="thisLevel w50"></div></div>
                             <ul>
                                 <li>Scrum</li>
                                 <li>XP</li>                                
@@ -167,11 +166,11 @@
         
         </div> <!-- end of tooplate_footer -->
     </div> <!-- end of tooplate_footer_wrapper -->
-</div> <!-- end of tooplate_body_wrapper -->
 
 
 <!-- A ordem importa-->
 <script language="javascript" type="text/javascript" src="js/jquery.js"></script>
+<script language="javascript" type="text/javascript" src="js/bootstrap.min.js"></script>
 <script language="javascript" type="text/javascript" src="js/languages.js"></script>
 <script language="javascript" type="text/javascript" src="js/util.js"></script>    
 <script language="javascript" type="text/javascript">

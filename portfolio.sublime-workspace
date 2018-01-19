@@ -4,8 +4,24 @@
 		"selected_items":
 		[
 			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
 				"pad",
-				"padding-top"
+				"padding"
+			],
+			[
+				"marg",
+				"margin-left"
 			],
 			[
 				"margi",
@@ -14,10 +30,6 @@
 			[
 				"padd",
 				"padding-top"
-			],
-			[
-				"marg",
-				"margin-bottom"
 			],
 			[
 				"mar",
@@ -40,10 +52,6 @@
 				"border-bottom-width"
 			],
 			[
-				"margin",
-				"margin-top"
-			],
-			[
 				"trans",
 				"translate"
 			],
@@ -58,10 +66,6 @@
 			[
 				"fie",
 				"fields"
-			],
-			[
-				"border",
-				"border-radius"
 			],
 			[
 				"padding",
@@ -87,55 +91,26 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 7252,
+				"buffer_size": 7847,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "js/jquery.js",
+			"file": "deyvisonestevam.custom.log",
 			"settings":
 			{
-				"buffer_size": 86659,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "/*! jQuery v3.2.1 | (c) JS Foundation and other co"
+				"buffer_size": 657646,
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "css/tooplate_style.css",
 			"settings":
 			{
-				"buffer_size": 6559,
+				"buffer_size": 7095,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "README",
-			"settings":
-			{
-				"buffer_size": 65,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "js/util.js",
-			"settings":
-			{
-				"buffer_size": 588,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "js/languages.js",
-			"settings":
-			{
-				"buffer_size": 3955,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
 			}
 		}
 	],
@@ -184,13 +159,17 @@
 	],
 	"file_history":
 	[
+		"/var/www/html/portfolio/js/languages.js",
+		"/var/www/html/portfolio/js/util.js",
+		"/var/www/html/portfolio/README",
+		"/var/www/html/portfolio/css/tooplate_style.css",
+		"/var/www/html/portfolio/js/jquery.js",
+		"/var/www/html/portfolio/teste.html",
 		"/var/www/html/portfolio/tooplate_style.css",
 		"/var/www/html/portfolio/js/languages/en.js",
 		"/var/www/html/portfolio/js/languages/pt-br.js",
 		"/var/www/html/portfolio/js/pt-br.js",
 		"/var/www/html/portfolio/js/jquery3_2_1.js",
-		"/var/www/html/portfolio/js/util.js",
-		"/var/www/html/portfolio/teste.html",
 		"/var/www/html/otrack/ftpsync.settings",
 		"/var/www/html/otrack/index.php",
 		"/home/gambit/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
@@ -213,7 +192,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -227,6 +206,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"social",
+			"social_links",
 			"text",
 			"body",
 			"lb",
@@ -259,7 +240,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -268,15 +249,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7252,
+						"buffer_size": 7847,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1680,
-								1680
+								2297,
+								2297
 							]
 						],
 						"settings":
@@ -286,39 +267,38 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 545.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "js/jquery.js",
-					"semi_transient": false,
+					"file": "deyvisonestevam.custom.log",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 86659,
+						"buffer_size": 657646,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								86659,
-								86659
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"auto_name": "/*! jQuery v3.2.1 | (c) JS Foundation and other co",
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -327,15 +307,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6559,
+						"buffer_size": 7095,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								523,
-								523
+								6574,
+								6574
 							]
 						],
 						"settings":
@@ -344,95 +324,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 45.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "README",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 65,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								65,
-								65
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "js/util.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 588,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								353,
-								364
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "js/languages.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3955,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								403,
-								403
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 90.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -515,7 +410,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 253.0,
+	"side_bar_width": 475.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

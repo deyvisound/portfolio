@@ -66,17 +66,17 @@ language["pt-br"]["sch_text2"] =
 
 //Inglês ########################################################################################
 language["en"]["home"] = "Home";
-language["en"]["about_me"] = "About Me";
+language["en"]["about_me"] = "About";
 language["en"]["latest_projects"] = "Latest Projects"
 language["en"]["read_more"] = "Read More";
 language["en"]["about"] = "About";
 language["en"]["experiences"] = "Experiences";
 language["en"]["my_location"] = "My Location";
-language["en"]["schooling"] = "Schooling";
+language["en"]["schooling"] = "Education";
 language["en"]["skills"] = "Skills";
 language["en"]["contact"] = "Contact";
 
 language["en"]["about_text1"] = 
-"Sou Deyvison Rodrigo B. Estevam, nascido em 23 de novembro de 1991. " +
-"Minha vida profissional começou bem cedo por volta dos 15 anos de idade, porém não na área de TI. " + 
-"Trabalhei em supermercados, lojas e até com entregas.";
+"I'm Deyvison Rodrigo B. Estevam, born in November 23, 1991."+
+" My professional life started early when I was 15 years old,"+
+" but not in the IT field. I worked at supermarkets, stores and even with delivery.";
