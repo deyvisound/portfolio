@@ -19,7 +19,7 @@ body {
 	background-position: top
 }
 
-a, a:link, a:visited { color: #434341; text-decoration: none; }
+a, a:link, a:visited { cursor: pointer; color: #434341; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
 p { margin: 0 0 15px 0; padding: 0; }
@@ -85,11 +85,7 @@ blockquote { font-style: italic; margin-left: 10px}
 	background-size: 100%;
 }
 
-@media screen and (max-width: 480px) {
-    #site_title h1 a {
-        width: 100%;
-    }
-}
+
 
 #header_right {
 	float: right;
@@ -146,22 +142,11 @@ blockquote { font-style: italic; margin-left: 10px}
 	width: 60%;
 }
 
-@media screen and (max-width: 500px) {
-    #tooplate_content {
-        width: 100%;
-        margin: 0;
-    }
-}
+
 
 
 .tooplate_sidebar {
 	width: 240px;
-}
-
-@media screen and (max-width: 480px) {
-    .tooplate_sidebar {
-        width: 100%;
-    }
 }
 
 .col_half {
