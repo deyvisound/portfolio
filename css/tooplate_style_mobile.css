@@ -7,8 +7,8 @@
 		margin: 0;
 	}
 
-    #tooplate_wrapper.container{    	
-    	padding: 0 1.5em;
+    #tooplate_wrapper.container{   
+    	padding: 0; 	    	
     	border-radius: none;
     }
 
@@ -25,6 +25,7 @@
     #tooplate_main{width: 100%; padding: 0; margin: 0; border-radius: 0;}
 
     .tooplate_sidebar{
+    	padding: 0 1.5em;
     	margin: 0 auto;
     	float: none;
     	width: 100%;
@@ -33,6 +34,7 @@
     #social_links{width: 100%; margin: 0 auto; float: none; align-items: center;}
 
     #tooplate_content{
+    	padding: 0 1.5em;
     	margin: 0 auto;
     	width: 100%;
     }
