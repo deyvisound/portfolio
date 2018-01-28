@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"marg",
+				"margin"
+			],
+			[
+				"container",
+				"container-fluid"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"col",
+				"col-xs-12"
+			],
+			[
 				"fon",
 				"font-weight"
 			],
@@ -18,10 +34,6 @@
 			[
 				"pad",
 				"padding"
-			],
-			[
-				"marg",
-				"margin-left"
 			],
 			[
 				"margi",
@@ -91,16 +103,17 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 7847,
+				"buffer_size": 8079,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "deyvisonestevam.custom.log",
+			"file": "README",
 			"settings":
 			{
-				"buffer_size": 657646,
+				"buffer_size": 64,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
@@ -108,7 +121,7 @@
 			"file": "css/tooplate_style.css",
 			"settings":
 			{
-				"buffer_size": 7095,
+				"buffer_size": 4565,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -155,13 +168,14 @@
 	"expanded_folders":
 	[
 		"/var/www/html/portfolio",
-		"/var/www/html/portfolio/css"
+		"/var/www/html/portfolio/css",
+		"/var/www/html/portfolio/js"
 	],
 	"file_history":
 	[
+		"/var/www/html/portfolio/README",
 		"/var/www/html/portfolio/js/languages.js",
 		"/var/www/html/portfolio/js/util.js",
-		"/var/www/html/portfolio/README",
 		"/var/www/html/portfolio/css/tooplate_style.css",
 		"/var/www/html/portfolio/js/jquery.js",
 		"/var/www/html/portfolio/teste.html",
@@ -192,7 +206,7 @@
 	],
 	"find":
 	{
-		"height": 38.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -206,6 +220,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"follow_us",
+			"col_w280",
+			"box01",
+			"tooplate_body_wrapper",
 			"social",
 			"social_links",
 			"text",
@@ -249,15 +267,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7847,
+						"buffer_size": 8079,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2297,
-								2297
+								5335,
+								5335
 							]
 						],
 						"settings":
@@ -267,7 +285,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 545.0,
+						"translation.y": 405.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -275,19 +293,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "deyvisonestevam.custom.log",
-					"semi_transient": true,
+					"file": "README",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 657646,
+						"buffer_size": 64,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								64,
+								64
 							]
 						],
 						"settings":
@@ -307,15 +325,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7095,
+						"buffer_size": 4565,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6574,
-								6574
+								3228,
+								3228
 							]
 						],
 						"settings":
@@ -324,7 +342,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2015.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -410,7 +428,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 475.0,
+	"side_bar_width": 295.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

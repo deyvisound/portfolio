@@ -146,7 +146,7 @@ blockquote { font-style: italic; margin-left: 10px}
 	width: 60%;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 500px) {
     #tooplate_content {
         width: 100%;
         margin: 0;
