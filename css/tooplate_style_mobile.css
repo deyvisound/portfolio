@@ -1,12 +1,17 @@
 /*Mobile style*/
 
 @media screen and (max-width: 500px) {  
+	.row{
+		padding: 0;
+		margin: 0;
+	}
 
     #tooplate_wrapper.container{
     	padding: 0;
     	border-radius: none;
     }
 
+    #tooplate_header{border-radius: 0; padding: 0;}
     #site_title h1 a {width: 100%;}
 
     #translate_links{
@@ -15,21 +20,26 @@
     	margin: 0 auto;
     	float: none;
     }
-
     
-    #tooplate_content {
-        width: 100%;
-        margin: 0;
+    #tooplate_main{width: 100%; padding: 0; margin: 0; border-radius: 0;}
+
+    .tooplate_sidebar{
+    	margin: 0 auto;
+    	float: none;
+    	width: 100%;
     }
 
-    .tooplate_sidebar {
-        width: 100%;
+    #social_links{width: 100%; margin: 0 auto; float: none; align-items: center;}
+
+    #tooplate_content{
+    	margin: 0 auto;
+    	padding: 0 1.5em;
+    	width: 100%;
     }
 
 
-
-
-
-
+    #tooplate_footer_wrapper{
+    	display: none;
+    }
 
 }
