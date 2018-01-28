@@ -22,10 +22,12 @@
     	float: none;
     }
     
-    #tooplate_main{width: 100%; padding: 0 1.5em; margin: 0; border-radius: 0;}
+    #tooplate_main{width: 100%; padding: 0; margin: 0; border-radius: 0;}
+
+    .content_box.lb{padding: 0 1.5em;}
 
     .tooplate_sidebar{
-    	padding: 0 1.5em;
+    	padding: 0;
     	margin: 0 auto;
     	float: none;
     	width: 100%;
