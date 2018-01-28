@@ -22,7 +22,7 @@
     	float: none;
     }
     
-    #tooplate_main{width: 100%; padding: 0; margin: 0; border-radius: 0;}
+    #tooplate_main{width: 100%; padding: 0 1.5em; margin: 0; border-radius: 0;}
 
     .tooplate_sidebar{
     	padding: 0 1.5em;
