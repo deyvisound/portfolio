@@ -45,19 +45,29 @@ language["pt-br"]["exp_text2"] =
 
 language["pt-br"]["exp_text3"] = 
 "Então, após o término do contrato do estágio, em fevereiro de 2015, fui selecionado para vaga de programador jr " + 
-"em um provedor de internet da região. A linguagem principal era o php, porém existiam projetos adjacentes em " + 
-"outras tecnologias como c++ e python. Desenvovi sistemas(ERP, CRM) e sites, após 2 anos fui para o cargo de " + 
-"analista de desenvolvimento de sistemas. Passei mais 10 meses na empresa e sai devido um corte de funcionários.";
+"em um provedor de internet da região. A linguagem principal era o PHP, porém participei brevemente em projetos adjacentes que " + 
+"utilizavam outras tecnologias como c++ e python. Desenvovi sistemas(ERP, CRM) e sites, após 2 anos fui para o cargo de " + 
+"analista de desenvolvimento de sistemas. Passei mais 10 meses na empresa, contando um total de 2 anos " + 
+" e 10 meses de experiencia com tecnologias PHP.";
 
+language["pt-br"]["exp_text4"] = 
+"Hoje trabalho como desenvolvedor de sistemas na eSig Software e Consultoria, empresa especializada em sistemas de " + 
+"gestão na área de educação e saúde. Comecei em Fevereiro de 2018 e estou até o presente momento. " +
+"Aqui trabalho com diversas tecnologias do mundo Java, dentre elas posso citar Hibernate, JSF, RichFaces... Banco de dados Postgresql. " + 
+"Foi aqui que aprendi que um bom profissional na área de T.I. não é composto somente de habilidades técnicas, é necessários " + 
+"também ter uma base sólida de conhecimento em  processos, negócios e metodologias... ";
 
 language["pt-br"]["sch_text1"] = 
-"Todo meu ensino fundamental e médio foi em escola pública. Durante a adolescência fiz cursos técnicos " +
-"e profissionalizantes na área de <u>gestão pessoal</u>, <u>informática</u> e <u>idiomas</u>(inglês e espanhol).";
+"Todo meu ensino fundamental e médio fora em escola pública. Durante a adolescência fiz cursos técnicos " +
+"e profissionalizantes na área de <u>gestão pessoal</u>, <u>informática</u> e <u>idiomas</u>.<br/>";
 
 language["pt-br"]["sch_text2"] = 
-"Após alguns cursos de administração e gestão pessoal decidi fazer vestibular para administração, felizmente " + 
-"não passei rsrs, então no ano seguinte(2011) fiz para Ciências e Tecnologia, passei e me formei em 2015. " + 
-"Hoje faço engenharia de telecomunicações em passos lentos, mas espero me formar em breve.";
+"Em 2010 fiz vestibular para administração, felizmente não passei rs, no ano seguinte(2011) " +
+"tentei Ciências e Tecnologia, passei e me formei em 2015. <br/>" + 
+"Escolhi Engenharia de Telecomunicações como curso de segundo ciclo porém, percebi depois que " +
+"não era o que eu queria e acabei não concluíndo o curso. <br/>" +
+"Procuro sempre está me especializando, por isto continuo fazendo cursos em plataformas online " +
+"como Udemy, AlgaWorks...";
 
 
 
