@@ -76,10 +76,10 @@ language["pt-br"]["sch_text1"] =
 
 language["pt-br"]["sch_text2"] = 
 "Em 2010 fiz vestibular para administração, (in)felizmente não passei, no ano seguinte(2011) já no ano seguinte tentei Ciências e Tecnologia, passei e me formei em 2015. <br/>" + 
-"Escolhi Engenharia de Telecomunicações como curso de segundo ciclo porém, percebi depois que não era o que eu queria e acabei não concluíndo o curso. <br/>" +
+"Escolhi Engenharia de Telecomunicações como curso de segundo ciclo, porém percebi depois que não era o que eu queria e acabei não concluíndo o curso. <br/>" +
 "Procuro sempre está me especializando, por isto continuo fazendo cursos em plataformas online e afins. " +
 "Fique a vontade para me contactar através e minhas redes sociais( canto superior esquerdo desta página ). " + 
-"E muito obrigado por ter lido até aqui :) ";
+"E muito obrigado por ler até aqui :) ";
 
 
 
